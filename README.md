@@ -3,10 +3,11 @@
     
 ## I am a passionate Senior Software Engineer, a technology enthusiast and a design pattern lover!
 
-<!--
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-  <div id="badges">
+  <!--
+    <div id="badges">
     <a href="your-linkedin-URL">
       <img src="" alt="LinkedIn Badge"/>
     </a>
@@ -17,9 +18,8 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
+ -->
 </div>
--->
-
 
 - 🔭 I’m currently working for [WakeCap](https://www.wakecap.com)
 - 🌱 I’m currently learning new tools and technologies, mostly realated to JavaScript
