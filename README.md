@@ -5,7 +5,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
   <!--
     <div id="badges">
     <a href="your-linkedin-URL">
@@ -19,7 +19,7 @@
     </a>
   </div>
  -->
-</div>
+</div> <br /><br />
 
 - 🔭 I’m currently working for [WakeCap](https://www.wakecap.com)
 - 🌱 I’m currently learning new tools and technologies, mostly realated to JavaScript
