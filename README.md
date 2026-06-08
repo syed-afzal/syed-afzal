@@ -26,7 +26,7 @@
 ---
 
 ### :man_technologist: About Me :
-- 🔭 I’m currently working for [WakeCap](https://www.wakecap.com)
+- 🔭 I’m currently working for [Remotebase](https://remotebase.com/)
 - 🌱 I’m currently learning new tools and technologies, mostly realated to JavaScript
 - 👯 I’m an active contributor on [Docker-Compose](https://img.shields.io/badge/docker--compose-awsome-blue)
 - 💬 Ask me about technologies related to **JavaScript**, **TypeScript**
